@@ -3,23 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
     "@tryretool/custom-component-support": "latest",
-    "@types/jest": "^27.0.1",
-    "@types/node": "^16.7.13",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "classnames": "^2.3.2",
-    "esbuild": "^0.19.2",
-    "jszip": "^3.10.1",
-    "postcss": "^8.4.30",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.4.2",
-    "web-vitals": "^2.1.0"
+    "react-dom": "^18.2.0"
   },
   "eslintConfig": {
     "extends": [
@@ -41,6 +27,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.23.0",
+    "@types/react": "^18.2.55",
     "@babel/plugin-syntax-flow": "^7.22.5",
     "@babel/plugin-transform-react-jsx": "^7.14.9",
     "@testing-library/dom": "^9.3.3",

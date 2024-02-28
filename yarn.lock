@@ -2222,10 +2222,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@tryretool/custom-component-support@*":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@tryretool/custom-component-support/-/custom-component-support-0.0.1.tgz#316b57595d6f80f6d6bdb81ef660a8373309dcc2"
-  integrity sha512-k7qTrNReAEWhsYInvPQ2aCEumXU5ZlgB8En+P4KhSYDLzs9NLwORzsX09XI32tk5FlnJ6p8okhJf3SlW6rp94Q==
+"@tryretool/custom-component-support@latest":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@tryretool/custom-component-support/-/custom-component-support-0.0.3.tgz#ca23d039062952c1f2d66d367b971f7653d42053"
+  integrity sha512-QhI6JLcsstjEfVBcxIv8ZrG7zvxn1jHA0a/IzN9uXTzMly3C+/FCAapIMhfgJclmNS6FPBeyP3U6WBaoebOhVQ==
   dependencies:
     "@inquirer/prompts" "^4.0.0"
     "@napi-rs/keyring" "^1.1.3"

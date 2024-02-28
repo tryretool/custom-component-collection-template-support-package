@@ -6,8 +6,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
-    "@tryretool/custom-component-collection-bundler": "https://retool-internal-shared-bucket.s3.us-west-2.amazonaws.com/tryretool-custom-component-collection-bundler-9.tar.gz",
-    "@tryretool/custom-component-collections": "https://retool-internal-shared-bucket.s3.us-west-2.amazonaws.com/tryretool-custom-component-collections-3.tar.gz",
+    "@tryretool/custom-component-support": "*",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
@@ -19,13 +18,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "retool-cli": "https://retool-internal-shared-bucket.s3.us-west-2.amazonaws.com/retool-cli-6.tar.gz",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
-  },
-  "scripts": {
-    "build": "$npm_execpath tryretool-ccc-build",
-    "deploy": "$npm_execpath retool ccc deploy"
   },
   "eslintConfig": {
     "extends": [
